@@ -1,5 +1,5 @@
-# [Blobby's Adventure](https://www.ticalc.org/archives/files/fileinfo/431/43129.html)
-An incomplete prototype of a sidescroller I worked on for the TI-83 and TI-84 calculators.
+# Blobby's Adventure
+An incomplete prototype of a sidescroller I worked on for the TI-83 and TI-84 calculators in 2011.
 
 For more info about uploading the game to your calculator, see [https://www.ticalc.org/archives/files/fileinfo/431/43129.html](https://www.ticalc.org/archives/files/fileinfo/431/43129.html).
 
