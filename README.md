@@ -6,15 +6,15 @@ For more info about uploading the game to your calculator, see [https://www.tica
 The source code is written in [z80 assembly language](https://tutorials.eeems.ca/ASMin28Days/lesson/toc.html).
 
 ## Screenshot
-<img src="https://github.com/user-attachments/assets/e41cb6bb-2938-4861-8133-e1403f405fc2.gif" width="250">
+<img src="https://github.com/user-attachments/assets/e41cb6bb-2938-4861-8133-e1403f405fc2" width="250">
 
 Keys:
-Left - left
-right - right
-2nd - jump
-alpha - pick stuff up
-math - toss
-GRAPH- quit
+* left - left
+* right - right
+* 2nd - jump
+* alpha - pick stuff up
+* math - toss
+* GRAPH- quit
 
 ## Timeline
 2011 - Initial release
